@@ -1,0 +1,36 @@
+class MyImages {
+  static String logo = 'img/logo.png';
+  static String backgronud = 'img/Backgronud.png';
+  static String successful = 'img/successful.png';
+  static String card = 'img/card.png';
+  static String pesrson = 'img/Person.png';
+  static String youtube = 'img/youtube.png';
+  static String google = 'img/google.png';
+  static String bank = 'img/bank.png';
+  static String centralBank = 'img/centralBank.png';
+  static String background2 = 'img/Background2.png';
+  static String sab = 'img/sab.png';
+  static String back = 'img/back.png';
+  static String portfolio = 'img/Portfolio.png';
+  static String call = 'img/call.png';
+  static String mony = 'img/mony.png';
+  static String fa = 'img/fa.png';
+  static String ta = 'img/ta.png';
+  static String sh = 'img/sh.png';
+  static String car = 'img/Car.png';
+  static String had = 'img/mony.png';
+  static String home = 'img/mony.png';
+  static String sartone = 'img/start1.png';
+  static String sartTwo = 'img/start2.png';
+  static String sartThree = 'img/start3.png';
+  static String doc = 'img/doc.png';
+  static String char = 'img/char.png';
+  static String paypal = 'img/paypal.png';
+  static String linked = 'img/linked in.png';
+  static String goal = 'img/Goal.png';
+  static String dollar = 'img/dollar.png';
+  static String house = 'img/house.png';
+  static String rectangle = 'img/Rectangle.png';
+  static String scuss = 'img/scuss.png';
+  static String end = 'img/end.png';
+}
